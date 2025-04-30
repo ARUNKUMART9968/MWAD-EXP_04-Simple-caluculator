@@ -46,6 +46,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+``` react
 
 
 ## OUTPUT
